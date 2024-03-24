@@ -2,7 +2,7 @@
 Calc4ASZ - Scientific Calculator  Created by Assamir Zafar (ASZ), Calc4ASZ is a powerful scientific calculator. Explore, customize, and contribute to its development with this repository.
 
 
-
+  
 # Calc4ASZ - Scientific Calculator
 
 Calc4ASZ is a simple yet powerful scientific calculator application developed by Assamir Zafar (ASZ).
