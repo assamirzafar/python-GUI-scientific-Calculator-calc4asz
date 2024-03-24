@@ -2,7 +2,8 @@
 Calc4ASZ - Scientific Calculator  Created by Assamir Zafar (ASZ), Calc4ASZ is a powerful scientific calculator. Explore, customize, and contribute to its development with this repository.
 
 
-  
+##use can use both keyboard and mouse to operate this calculator! read #key Features
+
 # Calc4ASZ - Scientific Calculator
 
 Calc4ASZ is a simple yet powerful scientific calculator application developed by Assamir Zafar (ASZ).
@@ -17,6 +18,43 @@ Calc4ASZ is a simple yet powerful scientific calculator application developed by
 - Constants: π (pi) and e (Euler's number).
 - Keyboard input support.
 - Error handling for invalid expressions.
+
+
+## Key Features:
+
+Basic arithmetic operations (+, -, *, /) ------>(mouse click, keyboard type)
+
+Exponentiation (^) ------>(mouse click, keyboard type)
+
+Square root (√) ------>(mouse click only)
+
+Factorial (!) ------>(mouse click only)
+
+Trigonometric functions (sin, cos, tan) ------>(mouse click, keyboard type)
+
+type "s" for sin(
+
+type "c" for cos(
+
+type "t" for tan(
+
+
+
+and don't forget to close parenthesis 
+
+
+
+Logarithms (ln, log10) ------> (mouse click only)
+
+
+
+Pi (π) and Euler's number (e) constants (mouse click, keyboard type)
+
+type "p" for π
+
+type "e" for e
+
+
 
 ## Usage
 
