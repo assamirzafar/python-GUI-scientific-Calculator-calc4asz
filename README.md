@@ -36,7 +36,7 @@ Additional functions like trigonometric functions, square root, power, etc., are
 
 ## Limitations
 
-- The maximum length of the expression allowed on the display is limited to 16 characters.
+
 - There's no support for complex numbers or advanced mathematical functions beyond what's listed in the features.
 - Keyboard input might not work as expected on non-Windows platforms.
 - Error messages are displayed as "Error" without specific details about the nature of the error.
