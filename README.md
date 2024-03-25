@@ -22,6 +22,8 @@ Calc4ASZ is a simple yet powerful scientific calculator application developed by
 
 ## Key Features:
 
+exponential or  x 10^ but don't forget to to type asterisk before it while using like " y* 10^"
+
 Basic arithmetic operations (+, -, *, /) ------>(mouse click, keyboard type)
 
 Exponentiation (^) ------>(mouse click, keyboard type)
